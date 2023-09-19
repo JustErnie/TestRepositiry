@@ -1,3 +1,3 @@
-# TestRepositiry
+# TestRepository
 Getting Started
 first edit
